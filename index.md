@@ -17,4 +17,5 @@ My GitHub page is https://github.com/Menulk09.
     Lab 12, Part 1 was very interesting for me. This was my first time making an image. It was nice to see how we use trigonometry to make colored squares. That but also using the vectors and the ints together.
 
 * Lab 8 
+
     Lab 8, Part 2 file was hard but fun at the same time. I find it really cool how we can use files to write the message as we did here. We used this to send the message.
